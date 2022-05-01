@@ -31,13 +31,13 @@ Curve Fitting And Interpolation:
 ---
 ### Demos
 ---
--Curve Fitting and Extrapolation part
+- Curve Fitting and Extrapolation part
 
 ---
 ![fitting](https://user-images.githubusercontent.com/61379163/166127192-329ea994-d20d-4e94-8e4c-0299cca20a3e.gif)
 
 ----
--Error map part
+- Error map part
 
 ---
 ![errormap](https://user-images.githubusercontent.com/61379163/166127198-701c64a1-403c-48be-bf65-38e7ccdc3588.gif)
